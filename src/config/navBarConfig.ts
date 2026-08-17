@@ -28,7 +28,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		children: [
 			{
 				name: "GitHub",
-				url: "https://github.com/VincentCroft",
+				url: "https://github.com/Chaosnap",
 				external: true,
 				icon: "fa6-brands:github",
 			},

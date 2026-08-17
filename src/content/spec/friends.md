@@ -18,7 +18,7 @@ Avatar Link: https://avatar.com
 
 ## ✉️Apply for a friendship link
 
-Please send your website information by email to: `VincentCroft.Inbox@outlook.com`
+Please send your website information by email to: `Chaosnap.Inbox@outlook.com`
 
 **Email Subject**: `Friend Link Request - [Your Site Name]`
 

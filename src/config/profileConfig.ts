@@ -26,13 +26,13 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/VincentCroft",
+			url: "https://github.com/Chaosnap",
 			showName: false,
 		},
 		{
 			name: "Email",
 			icon: "fa6-solid:envelope",
-			url: "mailto:VincentCroft.Inbox@outlook.com",
+			url: "mailto:Chaosnap.Inbox@outlook.com",
 			showName: false,
 		},
 		{

@@ -16,7 +16,7 @@ export const announcementConfig: AnnouncementConfig = {
 		// 链接文本
 		text: "Learn More",
 		// 链接 URL
-		url: "https://vincentcroft.github.io/",
+		url: "https://Chaosnap.github.io/",
 		// 内部链接
 		external: false,
 	},

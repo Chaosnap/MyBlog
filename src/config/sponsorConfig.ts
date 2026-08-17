@@ -49,7 +49,7 @@ export const sponsorConfig: SponsorConfig = {
 			name: "Github",
 			icon: "fa6-brands:github",
 			qrCode: "",
-			link: "https://github.com/VincentCroft",
+			link: "https://github.com/Chaosnap",
 			description: "Giving a star is the greatest support",
 			enabled: true,
 		},
