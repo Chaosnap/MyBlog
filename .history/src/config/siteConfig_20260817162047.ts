@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "Hi♡~！Hi♡~♪",
 
 	// 站点 URL
-	site_url: " https://guanhuayu.me/",
+	site_url: "https://Chaosnap.github.io/MyBlog",
 
 	// 站点描述
 	description:

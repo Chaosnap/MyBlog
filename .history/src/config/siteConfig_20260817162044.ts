@@ -13,10 +13,10 @@ export const siteConfig: SiteConfig = {
 	subtitle: "Hi♡~！Hi♡~♪",
 
 	// 站点 URL
-	site_url: "https://VincentCroft.github.io/MyBlog",
+	site_url: "https://Chaosnap.github.io/MyBlog",
 
 	// 站点描述
-	description:
+	description
 		"GuanHua's Blog is a personal blog built with Firefly, sharing knowledge and experiences in technology, ACGN, and more.",
 
 	// 站点关键词
