@@ -3,11 +3,11 @@ title: "Building a Real-Time Embedded DAQ System: Lessons from Firmware, Sensors
 published: 2026-08-20
 pinned: false
 description: "What I learned while building an eight-channel embedded data acquisition system: component selection, sensor integration, firmware scheduling, UART protocols, and hardware-software integration."
-image: "./cover.webp"
 tags: ["Embedded Systems", "Firmware", "Data Acquisition", "UART", "I2C", "Hardware-Software Co-Design"]
 category: "Embedded Systems"
 draft: false
 slug: "embedded-daq-system-lessons"
+image: api
 ---
 
 # Building a Real-Time Embedded DAQ System: Lessons from Firmware, Sensors, and Integration

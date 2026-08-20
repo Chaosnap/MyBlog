@@ -3,11 +3,11 @@ title: "Building a Real-Time Rhythm Game on STM32: Timing, DMA, LEDs, and GUI In
 published: 2026-08-20
 pinned: false
 description: "Engineering lessons from building tpmania, a real-time STM32 rhythm game with a 16x4 LED matrix, arcade buttons, microSD assets, audio playback, and a cross-platform configuration GUI."
-image: "./cover.webp"
 tags: ["STM32", "Embedded Systems", "Real-Time Systems", "DMA", "PyQt", "Hardware-Software Co-Design"]
 category: "Embedded Systems"
 draft: false
 slug: "tpmania-realtime-rhythm-game"
+image: api
 ---
 
 # Building a Real-Time Rhythm Game on STM32: Timing, DMA, LEDs, and GUI Integration

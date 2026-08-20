@@ -3,11 +3,11 @@ title: "Designing a Multiplierless ADFT on FPGA: Pipelining, Fixed-Point Arithme
 published: 2026-08-20
 pinned: false
 description: "What I learned while implementing an 8-point multiplierless Approximate DFT on FPGA, from MATLAB and HDL Coder verification to pipelining, fixed-point refinement, FPGA-in-the-loop testing, and standalone Nexys 4 deployment."
-image: "./cover.webp"
 tags: ["FPGA", "DSP", "HDL Coder", "Fixed-Point", "Pipelining", "Spectrum Sensing"]
 category: "FPGA"
 draft: false
 slug: "fpga-adft-spectrum-sensing"
+image: api
 ---
 
 # Designing a Multiplierless ADFT on FPGA: Pipelining, Fixed-Point Arithmetic, and Spectrum Sensing

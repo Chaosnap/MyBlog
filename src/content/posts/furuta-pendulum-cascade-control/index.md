@@ -3,11 +3,11 @@ title: "Balancing a Furuta Pendulum: From Plant Modelling to Cascade Control"
 published: 2026-08-20
 pinned: false
 description: "What I learned from modelling and controlling a rotary inverted pendulum using transfer functions, root-locus PID design, nonlinear Simulink simulation, and a cascaded PID-PD controller."
-image: "./cover.webp"
 tags: ["Control Systems", "MATLAB", "Simulink", "PID", "Root Locus", "Cascade Control"]
 category: "Control Systems"
 draft: false
 slug: "furuta-pendulum-cascade-control"
+image: api
 ---
 
 # Balancing a Furuta Pendulum: From Plant Modelling to Cascade Control

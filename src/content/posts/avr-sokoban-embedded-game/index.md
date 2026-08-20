@@ -3,11 +3,11 @@ title: "Building Sokoban on an AVR: From Game Logic to Real-Time Peripheral Inte
 published: 2026-08-20
 pinned: false
 description: "Lessons from implementing Sokoban on an ATmega324A with a 16x8 LED matrix, push buttons, UART terminal control, joystick input, a seven-segment display, and piezo-buzzer feedback."
-image: "./cover.webp"
 tags: ["AVR", "ATmega324A", "Embedded Systems", "C", "SPI", "UART", "Game Development"]
 category: "Embedded Systems"
 draft: false
 slug: "avr-sokoban-embedded-game"
+image: api
 ---
 
 # Building Sokoban on an AVR: From Game Logic to Real-Time Peripheral Integration

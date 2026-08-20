@@ -3,11 +3,11 @@ title: "Building a Multithreaded Chess Server in C: TCP, Threads, Pipes, and Sto
 published: 2026-08-20
 pinned: false
 description: "Lessons from designing a networked chess service in C with asynchronous clients, one server thread per connection, shared game state, human matchmaking, and a single Stockfish process connected through pipes."
-image: "./cover.webp"
 tags: ["C", "Networking", "POSIX Threads", "TCP", "Stockfish", "UCI", "Concurrency"]
 category: "Systems Programming"
 draft: false
 slug: "multithreaded-chess-server-c"
+image: api
 ---
 
 # Building a Multithreaded Chess Server in C: TCP, Threads, Pipes, and Stockfish

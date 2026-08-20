@@ -3,11 +3,11 @@ title: "Building a Wireless FreeRTOS Controller for a Remote Microscope"
 published: 2026-08-20
 pinned: false
 description: "Lessons from designing a wireless Remote Controlled Microscope controller with STM32, FreeRTOS, nRF24L01+, finite-state machines, queues, semaphores, Hamming-coded packets, and local diagnostic outputs."
-image: "./cover.webp"
 tags: ["FreeRTOS", "STM32", "nRF24L01", "Embedded Systems", "Wireless", "Finite State Machine", "SPI"]
 category: "Embedded Systems"
 draft: false
 slug: "freertos-wireless-remote-microscope"
+image: api
 ---
 
 # Building a Wireless FreeRTOS Controller for a Remote Microscope
